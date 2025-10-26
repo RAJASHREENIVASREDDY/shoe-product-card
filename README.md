@@ -34,8 +34,7 @@ Both buttons are functional using JavaScript alert messages for basic interactiv
 
 ---
 
-## 📸 Preview
-screenshot (preview.png)
+## 📸 Preview (preview.png)
 
 ---
 
