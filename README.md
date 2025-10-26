@@ -35,7 +35,7 @@ Both buttons are functional using JavaScript alert messages for basic interactiv
 ---
 
 ## 📸 Preview
-.shoe-product-card/preview.png
+preview.png
 
 ---
 
